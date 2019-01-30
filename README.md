@@ -1,2 +1,2 @@
-# cs6241_2019sp
+# CS6241: Numerical Methods for Data Science (Spring 2019)
 Repository for class demos
