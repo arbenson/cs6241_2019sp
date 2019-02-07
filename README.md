@@ -5,3 +5,7 @@ Repository for class demos
 - [Breast Cancer Wisconsin (Diagnostic) dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 - [Zachary's Karate Club dataset](http://konect.uni-koblenz.de/networks/ucidata-zachary)
 
+Additional contributors
+
+- Shivank Goel (Python notebooks)
+
